@@ -9,7 +9,8 @@
 <div align="center">
   <h3>👨‍💻 About Me</h3>
   
-  > *"Code is like humor. When you have to explain it, it’s bad."*
+  > *"Code is like humor. When you have to explain it, it’s bad.
+>                                           - Cory House"*
 
   🎓 **CSE Undergraduate @ SRM Kattankulathur** <br/> 
   🚀 Passionate about **Full Stack Dev, AI/ML & System Design**
